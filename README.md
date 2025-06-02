@@ -18,3 +18,11 @@ Eu sou Sofia, estudante de Ciência da Computação. Me interesso por **gestão 
 - <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="20" height="20" style="border-radius:50%; vertical-align:middle; margin-right:6px;" /> [E-mail](mailto:sofiasakovitz@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaavallone&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sofiaavallone/sofiaavallone/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sofiaavallone/sofiaavallone/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sofiaavallone/sofiaavallone/output/pacman-contribution-graph.svg">
+</picture>
+
+###
