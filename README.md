@@ -22,3 +22,5 @@ Eu sou Sofia, estudante de Ciência da Computação. Me interesso por **gestão 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaavallone&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=sofiaavallone&show_icons=true&theme=onedark)
+
+![Snake animation](https://raw.githubusercontent.com/sofiaavallone/sofiaavallone/output/github-contribution-grid-snake.svg)
