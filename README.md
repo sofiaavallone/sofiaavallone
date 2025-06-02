@@ -21,7 +21,6 @@ Eu sou Sofia, estudante de Ciência da Computação. Me interesso por **gestão 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sofiaavallone/sofiaavallone/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sofiaavallone/sofiaavallone/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sofiaavallone/sofiaavallone/output/pacman-contribution-graph.svg">
 </picture>
 
