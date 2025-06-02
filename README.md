@@ -1,6 +1,4 @@
-## Oie! 🤝
-
-![Ilustração de um computador](image.png)
+## Oie! 👋
 
 Eu sou Sofia, estudante de Ciência da Computação. Me interesso por **gestão de projetos**, **cibersegurança** e **desenvolvimento Frontend**. Curiosa desde sempre, estou sempre buscando aprender e evoluir.
 
@@ -20,7 +18,3 @@ Eu sou Sofia, estudante de Ciência da Computação. Me interesso por **gestão 
 - <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="20" height="20" style="border-radius:50%; vertical-align:middle; margin-right:6px;" /> [E-mail](mailto:sofiasakovitz@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaavallone&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=sofiaavallone&show_icons=true&theme=onedark)
-
-![Snake animation](https://raw.githubusercontent.com/sofiaavallone/sofiaavallone/output/github-contribution-grid-snake.svg)
