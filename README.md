@@ -1,6 +1,6 @@
 ## Oie! 👋
 
-Meu nome é Sofia, tenho 18 anos e sou estudante de Ciência da Computação. Curiosa desde sempre, estou em uma constante busca por aprendizado e evolução. Me esforço, acima de tudo, para ser minha melhor versão.
+Meu nome é Sofia, tenho 19 anos e sou estudante de Ciência da Computação. Curiosa desde sempre, estou em uma constante busca por aprendizado e evolução. Me esforço, acima de tudo, para ser minha melhor versão.
 
 ----
 
